@@ -19,9 +19,9 @@
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" /> 
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"width="40" height="40" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
@@ -43,11 +43,11 @@
 [linkedin]: https://www.linkedin.com/in/abhisan-ghimire-5605681a2/
 [innovativesolution]: https://innovativesolution.com.np/
 
-<br />
-<br />
+<br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisanghimire&layout=compact&hide=html" alt="abhisanghimire" /></p>
-<br />
-<br />
+<br/>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisanghimire&show_icons=true" alt="abhisanghimire" /></p>
 
 
