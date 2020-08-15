@@ -45,6 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisanghimire&layout=compact&hide=html" alt="abhisanghimire" /></p>
 
-<p style="margin-top:1em;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisanghimire&show_icons=true" alt="abhisanghimire" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhisanghimire&show_icons=true" alt="abhisanghimire" /></p>
 
 
