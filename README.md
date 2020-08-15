@@ -43,11 +43,12 @@
 [linkedin]: https://www.linkedin.com/in/abhisan-ghimire-5605681a2/
 [innovativesolution]: https://innovativesolution.com.np/
 
-<br/>
-<br/>
+
+  
+    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisanghimire&layout=compact&hide=html" alt="abhisanghimire" /></p>
-<br/>
-<br/>
+  
+    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisanghimire&show_icons=true" alt="abhisanghimire" /></p>
 
 
