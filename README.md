@@ -46,6 +46,7 @@
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhisanghimire&show_icons=true" alt="abhisanghimire" /></p>
+<br/>
 [website]: https://www.abhisanghimire.info/
 [twitter]: https://twitter.com/GhimireAbhisan
 [instagram]: https://www.instagram.com/_abhisan_/
