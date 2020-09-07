@@ -2,9 +2,9 @@
 
 ## I'm a developer, casual gamer, learner, and tech-enthusiast!
 
--   🔭 I’m currently working as a Software Developer for [Innovative Solution Pvt. Ltd.][innovativesolution]!
--   🌱 I’m learning Laravel with PostgreSQL for GIS based application development
--   👯 I’m looking to learn along other programmers and grow together
+-   🔭 I am currently working as a Software Developer for [Innovative Solution Pvt. Ltd.][innovativesolution]!
+-   🌱 I am learning Laravel with PostgreSQL for GIS based application development
+-   👯 I am looking to learn along other programmers and grow together
 -   🥅 2020 Goals: Learn more skills for efficient programming and contribute towards self-growth
 -   ⚡ Fun fact: I love to play strategy based games, learn through videos and know about new techs
 
