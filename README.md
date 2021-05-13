@@ -5,7 +5,7 @@
 -    I am currently working as a Software Developer for [Innovative Solution Pvt. Ltd.][innovativesolution]!
 -    I am learning Laravel with PostgreSQL for GIS based application development
 -    I am looking forward to learn and collaborate with other programmers to grow together
--    2021 Goal: Learn apt skills for efficient programming contributing towards self-growth
+-    2021 Goal: Remove casual gamer title from my bio
 
 ### Connect with me:
 
