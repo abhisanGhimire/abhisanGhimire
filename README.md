@@ -1,12 +1,11 @@
-### Hi there, I'm Abhisan 👋
+## Hello, I'm Abhisan 
 
-## I'm a developer, casual gamer, learner, and tech-enthusiast!
+### I'm a developer and casual gamer!
 
--   🔭 I am currently working as a Software Developer for [Innovative Solution Pvt. Ltd.][innovativesolution]!
--   🌱 I am learning Laravel with PostgreSQL for GIS based application development
--   👯 I am looking forward to learn and collaborate with other programmers to grow together
--   🥅 2021 Goal: Learn apt skills for efficient programming contributing towards self-growth
--   ⚡ Fun fact: I love to play strategy based games, learn through videos and know about new techs
+-    I am currently working as a Software Developer for [Innovative Solution Pvt. Ltd.][innovativesolution]!
+-    I am learning Laravel with PostgreSQL for GIS based application development
+-    I am looking forward to learn and collaborate with other programmers to grow together
+-    2021 Goal: Learn apt skills for efficient programming contributing towards self-growth
 
 ### Connect with me:
 
